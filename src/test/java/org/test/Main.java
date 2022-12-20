@@ -33,7 +33,7 @@ driver.quit();
 	private void beforemethod() {
 		Date d= new Date();
 		System.out.println("test1"+d);
-		System.out.println("Before method");
+		System.out.println("Before method1");
 	}
 	
 	@AfterMethod
